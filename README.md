@@ -1,2 +1,0 @@
-# PyberMD
-pyber homework
